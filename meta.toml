@@ -1,7 +1,7 @@
 name = "clock-time"
 
 [next]
-t = 1
+t = 15
 i = 1
 p = 1
 adr = 1
