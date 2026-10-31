@@ -14,3 +14,6 @@ docs/changes.md
 **/__pycache__
 
 .env
+
+# myco worktree mount point (created by `myco init`)
+project/
